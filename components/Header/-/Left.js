@@ -10,7 +10,7 @@ function HeaderLeft() {
                 id="insta-text"
                 className="relative hidden lg:inline-grid w-24 cursor-pointer"
             >
-                <Link href="/AboutPage.js">
+                <Link href="/AboutPage">
                     <Image
                         src="https://links.papareact.com/ocw"
                         layout="fill"
